@@ -182,7 +182,7 @@ This classification does **not** mean that the customer committed fraud. It iden
 ---
 
 # 📊 Power BI Dashboard
-![Executive Risk Overview](./images/dashboard-executive.png)
+<img src="https://raw.githubusercontent.com/zmarcozarate-del/fintech-fraud-risk-analytics/main/images/dashboard-executive.png" alt="Executive Risk Overview">
 
 ![Fraud & Risk Detection](./images/dashboard-detection.png)
 
